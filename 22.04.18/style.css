@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+.top{
+    
+    border: 1px solid black;
+    margin: 10px;
+
+}
+h1{
+    background-color: greenyellow;  
+}
+
+span{
+    background-color: greenyellow;
+    padding: 0;
+    margin: 0;
+}
